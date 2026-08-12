@@ -1,6 +1,6 @@
 # Olá! Eu sou Enzo Eduardo 👋
 
-Amante da tecnologia, minha paixão pela programação é o que me impulsiona todos os dias a transformar linhas de código em soluções criativas e funcionais. Atualmente atuo como **Tech Lead**, combinando minha experiência em desenvolvimento Full Stack e arquiteturas escaláveis com a **liderança de equipes**. Acredito que *soft skills* fortes são essenciais para guiar times rumo à excelência, construir um ambiente colaborativo e entregar produtos de alta qualidade.
+Amante da tecnologia, minha paixão pela programação é o que me impulsiona todos os dias a transformar linhas de código em soluções criativas e funcionais. Atualmente, sou **Sócio da Ethan Group** e atuo como **Tech Lead**, combinando minha experiência em desenvolvimento Full Stack e arquiteturas escaláveis com a **liderança de equipes**. Acredito que *soft skills* fortes são essenciais para guiar times rumo à excelência, construir um ambiente colaborativo e entregar produtos de alta qualidade.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-amaral-979750243/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzo_amaralg/)
@@ -36,6 +36,7 @@ Amante da tecnologia, minha paixão pela programação é o que me impulsiona to
 
 ### 🤝 Liderança & Soft Skills
 
+*   **Visão de Negócios:** Como sócio da Ethan Group, trago uma perspectiva estratégica alinhando tecnologia aos objetivos da empresa.
 *   **Tech Lead:** Orientação técnica, tomada de decisões arquiteturais e mentoria para o desenvolvimento contínuo da equipe.
 *   **Liderança:** Gestão de pessoas e projetos com foco em agilidade, colaboração e entrega de valor.
 *   **Soft Skills:** Comunicação assertiva, resolução criativa de problemas, empatia e adaptabilidade.
